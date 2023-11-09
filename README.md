@@ -50,7 +50,7 @@ Path ◍ ( Green )
 
 
 
-## Terminal Typing Master
+## Typing Master
 ### Objective:
 To develop a terminal-based typing test application. The application tests the
 user's typing speed by presenting a list of random words from a selected
