@@ -1,5 +1,5 @@
 # Masai_ple01_289_DSA_Module_Project
-## Rat in maze
+## 1.Rat in maze
 ### Objective:
 To develop a terminal-based application that generates a random maze, finds a path
 from the start to the end, and visualizes the maze and path in the terminal.
@@ -50,7 +50,7 @@ Path ◍ ( Green )
 
 
 
-## Typing Master
+## 2.Typing Master
 ### Objective:
 To develop a terminal-based typing test application. The application tests the
 user's typing speed by presenting a list of random words from a selected
