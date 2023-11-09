@@ -44,7 +44,11 @@ Path ◍ ( Green )
 ### Future Perspective:
 1. Implement additional maze generation algorithms.
 2. Implement additional pathfinding algorithms for comparison
-3. 
+
+
+
+
+
 
 ## Terminal Typing Master
 ### Objective:
