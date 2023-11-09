@@ -1,5 +1,5 @@
 # Masai_ple01_289_DSA_Module_Project
-## Terminal-Based Maze Solver
+## Rat in maze
 ### Objective:
 To develop a terminal-based application that generates a random maze, finds a path
 from the start to the end, and visualizes the maze and path in the terminal.
